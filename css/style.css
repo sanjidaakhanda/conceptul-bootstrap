@@ -9,7 +9,8 @@
 .last-part {
   background-image: url(https://img.freepik.com/free-photo/high-angle-shot-beautiful-beach-breathtaking-sunset-sky_181624-26026.jpg?w=900&t=st=1675232800~exp=1675233400~hmac=dacdc5dcb1669ba048e79d6cc9f6f3a9f37c7a0fda1e945f08fdd6faee39f3a2);
   background-position: center;
-  height: 100vh;
+  height: 300px;
+  weight:300px;
   background-repeat: no-repeat;
   background-size: cover;
   background-blend-mode: overlay;
